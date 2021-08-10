@@ -2,6 +2,7 @@ from PyQt5 import uic
 from PyQt5.QtWidgets import *
 import sys
 
+
 class App(QWidget):
 	rezult = "0"
 	operator = ""
